@@ -40,7 +40,7 @@ Begin VB.Form frm_Collectors
       _ExtentY        =   661
       _Version        =   393216
       Enabled         =   0   'False
-      Format          =   118882305
+      Format          =   88145921
       CurrentDate     =   42055
    End
    Begin VB.Frame FraCurrColl 
@@ -406,7 +406,7 @@ Begin VB.Form frm_Collectors
          _ExtentX        =   2566
          _ExtentY        =   661
          _Version        =   393216
-         Format          =   119144449
+         Format          =   88211457
          CurrentDate     =   42045
       End
       Begin VB.TextBox txtLastName 
@@ -668,7 +668,7 @@ Attribute VB_Exposed = False
 Option Explicit
 
 'Brayan 03-16-2015 12:00 AM
-'mo ni ang function kung magdelete ug collector kinahanglan mabalik ang information sa old collector nga gepuliha
+'mo bbb ni ang function kung magdelete ug collector kinahanglan mabalik ang information sa old collector nga gepuliha
 Public Sub RestCollectorInformation(x As Integer)
 
         '<EhHeader>

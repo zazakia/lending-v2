@@ -1,7 +1,7 @@
 [History]
-1=#P0#=mb	#P1#=btnAdd_Click	#P2#=LendingClient/frm_Loan/btnAdd_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180119225822	#P7#=-2147483640	#P8#=39	.
-2=#P0#=co	#P1#=frm_Loan	#P2#=LendingClient/frm_Loan	#P3#=	#P4#=	#P5#=CompMDIChildForm	#P6#=20180119225459	#P7#=-2147483640	#P8#=0	.
-3=#P0#=mb	#P1#=RestCollectorInformation	#P2#=LendingClient/frm_Collectors/RestCollectorInformation	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180119220353	#P7#=0	#P8#=-2	.
+1=#P0#=mb	#P1#=RestCollectorInformation	#P2#=LendingClient/frm_Collectors/RestCollectorInformation	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20180131213526	#P7#=0	#P8#=-1	.
+2=#P0#=mb	#P1#=btnAdd_Click	#P2#=LendingClient/frm_Loan/btnAdd_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180119225822	#P7#=-2147483640	#P8#=39	.
+3=#P0#=co	#P1#=frm_Loan	#P2#=LendingClient/frm_Loan	#P3#=	#P4#=	#P5#=CompMDIChildForm	#P6#=20180119225459	#P7#=-2147483640	#P8#=0	.
 4=#P0#=mb	#P1#=txtDelivery_LostFocus	#P2#=LendingClient/frm_Loan/txtDelivery_LostFocus	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20180118085329	#P7#=0	#P8#=11	.
 5=#P0#=co	#P1#=frm_Customer	#P2#=LendingClient/frm_Customer	#P3#=	#P4#=	#P5#=CompMDIChildForm	#P6#=20180118080549	#P7#=-2147483640	#P8#=0	.
 6=#P0#=co	#P1#=frm_Collectors	#P2#=LendingClient/frm_Collectors	#P3#=	#P4#=	#P5#=CompForm	#P6#=20180118080546	#P7#=-2147483640	#P8#=0	.
